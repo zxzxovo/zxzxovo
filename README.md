@@ -10,6 +10,6 @@
 ### My Coding Stats
 ---
 
-![Zhixia's Github Stats](https://github-readme-stats.vercel.app/api?username=zxzxovo&show_icons=true&github_dark_dimmed)
+![Zhixia's Github Stats](https://github-readme-stats.vercel.app/api?username=zxzxovo&show_icons=true&theme=github_dark_dimmed)
 
 [![Zhixia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxzxovo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

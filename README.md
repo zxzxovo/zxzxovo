@@ -4,7 +4,7 @@
 - 👀 I’m interested in *Computer and Programming*.
 - 🌱 Learning: *HTML/CSS/JS, rust-lang, Python, Android*， I've learned *C* at college.
 - 💞️ Keep walking...
-- 📫 Contact By: [Gmail: zhixiaovo@gmail.com](mailto:zhixiaovo@gmail.com), [X: @zxzxovo](x.com/zxzxovo) .
+- 📫 Contact By: [Gmail: zhixiaovo@gmail.com](mailto:zhixiaovo@gmail.com), [X: @zxzxovo](https://x.com/zxzxovo) .
 
 
 ### My Coding Stats

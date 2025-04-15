@@ -1,6 +1,6 @@
 ## ZX Here!
 
-Hi, I’m @zxzxovo, call me zx or **Zhixia** ^~^.、
+Hi, I’m @zxzxovo, call me zx or **Zhixia** ^~^ .
 
 - 👀 I’m interested in *Computer and Programming*.
 - 🌱 Learning: *HTML/CSS/JS, rust-lang, Python, Android*， I've learned *C* at college.

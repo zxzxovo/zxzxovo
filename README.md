@@ -7,7 +7,7 @@ Hi, I’m @zxzxovo, call me **zx** or **Zhixia** ^~^ .
 
 ## Coding Stats
 
-| ![Zhixia's Github Stats](https://github-readme-stats.vercel.app/api?username=zxzxovo&show_icons=true&theme=vue) | [![Zhixia's Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=zxzxovo&layout=compact&hide=html](https://github-readme-stats.vercel.app/api/top-langs/?username=zxzxovo&layout=compact&hide=html,css,scss))](https://github.com/anuraghazra/github-readme-stats) |
+| ![Zhixia's Github Stats](https://github-readme-stats.vercel.app/api?username=zxzxovo&show_icons=true&theme=vue) | [![Zhixia's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxzxovo&layout=compact&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 
